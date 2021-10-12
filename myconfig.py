@@ -1,8 +1,8 @@
 from typing import List, Dict, Union
 
 api_list: List[Dict[str, Union[str, int]]] = [
-    {'api_id': 8759294, 'api_hash': 'd591adc00cebda110561f5ce1e808d35', 'username': 'Lucas_2555'},
-    {'api_id': 8014027, 'api_hash': 'ccbf8418fd3368655d1daf3f98f5b69c', 'username': 'Xavier_2555'}
+    {'api_id': 'enter_api_id', 'api_hash': 'enter_api_hash', 'username': 'enter_username'},
+    {'api_id': 'enter_api_id', 'api_hash': 'enter_api_hash', 'username': 'enter_username'}
 ]
 
 bool_add_contact: bool = False
