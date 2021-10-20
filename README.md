@@ -11,7 +11,7 @@ All of your accounts will send messages to each other. All of these specificatio
 * The time between each messages
 * The recipient of the messages 
 
-## To start
+## Getting Started
 * You need multiple telegram's accounts.
 * You need the api_id and the api_hash of your accounts. To do that, you have to create an api key here for each account : [Create your api key here](https://my.telegram.org/auth?to=apps)
 * Install requirements - `pip install -r requirements.txt`
